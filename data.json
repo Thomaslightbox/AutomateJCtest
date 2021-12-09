@@ -1,0 +1,69 @@
+{
+  "customers": [{
+      "name": "Barlows Caterpillar RustenBurg",
+      "abbre": "Caterpillar RustenBurg"
+    },
+    {
+      "name": "Tharisia Minirals",
+      "abbre": "Tharisia"
+    },
+    {
+      "name": "Pilansberg Platunim Mines",
+      "abbre": "PPM"
+    },
+    {
+      "name": "Cash Customer",
+      "abbre": "CC"
+    },
+    {
+      "name": "Royal Bafokeng Mines",
+      "abbre": "RBM"
+    },
+    {
+      "name": "Royal Bafokeng Administration",
+      "abbre": "RBA"
+    },
+    {
+      "name": "Eco Plant",
+      "abbre": "ECO"
+    },
+    {
+      "name": "Barlow Caterpillar Isando",
+      "abbre": "Caterpillar Isando"
+    }
+  ],
+  "Site": [{
+      "name": "Eco Tha",
+      "abbre": "Caterpillar RustenBurg"
+    },
+    {
+      "name": "Tharisia Minirals",
+      "abbre": "Tharisia"
+    },
+    {
+      "name": "Pilansberg Platunim Mines",
+      "abbre": "PPM"
+    },
+    {
+      "name": "Cash Customer",
+      "abbre": "CC"
+    },
+    {
+      "name": "Royal Bafokeng Mines",
+      "abbre": "RBM"
+    },
+    {
+      "name": "Royal Bafokeng Administration",
+      "abbre": "RBA"
+    },
+    {
+      "name": "Eco Plant",
+      "abbre": "ECO"
+    },
+    {
+      "name": "Barlow Caterpillar Isando",
+      "abbre": "Caterpillar Isando"
+    }
+  ]
+
+}
